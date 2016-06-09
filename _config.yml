@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://sergezab.github.io
+title: A Day In The Life
+tagline: A Day In The Life
+description: Small tips and news about my life style. 
+paginate: 5
